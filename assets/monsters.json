@@ -1,0 +1,336 @@
+[{
+  "name":"Rat",
+  "hp":2,
+  "atk":1,
+  "room":"Caverns"
+},{
+  "name":"Mushroom",
+  "hp":2,
+  "atk":1,
+  "room":"Caverns"
+},{
+  "name":"Skeleton",
+  "hp":3,
+  "atk":1,
+  "room":"Caverns"
+},{
+  "name":"Squib",
+  "hp":2,
+  "atk":1,
+  "room":"Caverns"
+},{
+  "name":"Snatcher",
+  "hp":2,
+  "atk":2,
+  "room":"Caverns"
+},{
+  "name":"Spider",
+  "hp":2,
+  "atk":2,
+  "room":"Caverns"
+},{
+  "name":"Mole Rat",
+  "hp":5,
+  "atk":2,
+  "room":"Caverns"
+},{
+  "name":"Toad",
+  "hp":10,
+  "atk":2,
+  "room":"Caverns"
+},{
+  "name":"Slug",
+  "hp":10,
+  "atk":3,
+  "room":"Caverns"
+},{
+  "name":"Cave Troll",
+  "hp":15,
+  "atk":4,
+  "room":"Caverns"
+},{
+  "name":"Tunneler",
+  "hp":8,
+  "atk":2,
+  "room":"Caverns"
+},{
+  "name":"Granite Growler",
+  "hp":30,
+  "atk":4,
+  "room":"Caverns"
+},{
+  "name":"Dragon",
+  "hp":28,
+  "atk":3,
+  "room":"Caverns"
+},{
+  "name":"Gorgon",
+  "hp":50,
+  "atk":6,
+  "room":"Caverns"
+},{
+  "name":"Rat",
+  "hp":2,
+  "atk":1,
+  "room":"Jail"
+},{
+  "name":"Fly",
+  "hp":3,
+  "atk":2,
+  "room":"Jail"
+},{
+  "name":"Mr. Skeltal",
+  "hp":10,
+  "atk":2,
+  "room":"Jail"
+},{
+  "name":"Stichy",
+  "hp":12,
+  "atk":3,
+  "room":"Jail"
+},{
+  "name":"Lantern Geist",
+  "hp":12,
+  "atk":3,
+  "room":"Jail"
+},{
+  "name":"Guard",
+  "hp":13,
+  "atk":2,
+  "room":"Jail"
+},{
+  "name":"Friendly Ghost",
+  "hp":12,
+  "atk":4,
+  "room":"Jail"
+},{
+  "name":"Burlapy",
+  "hp":13,
+  "atk":3,
+  "room":"Jail"
+},{
+  "name":"Skeleton Warrior",
+  "hp":11,
+  "atk":2,
+  "room":"Jail"
+},{
+  "name":"Jailer",
+  "hp":18,
+  "atk":5,
+  "room":"Jail"
+},{
+  "name":"Brute",
+  "hp":40,
+  "atk":6,
+  "room":"Jail"
+},{
+  "name":"Ghost Dragon",
+  "hp":50,
+  "atk":13,
+  "room":"Jail"
+},{
+  "name":"Abomination",
+  "hp":70,
+  "atk":15,
+  "room":"Jail"
+},{
+  "name":"Radish",
+  "hp":10,
+  "atk":2,
+  "room":"Kitchen"
+},{
+  "name":"Eggplant",
+  "hp":10,
+  "atk":2,
+  "room":"Kitchen"
+},{
+  "name":"Carrot",
+  "hp":12,
+  "atk":3,
+  "room":"Kitchen"
+},{
+  "name":"Blue Barry",
+  "hp":12,
+  "atk":3,
+  "room":"Kitchen"
+},{
+  "name":"Vegone",
+  "hp":13,
+  "atk":2,
+  "room":"Kitchen"
+},{
+  "name":"Glazed Guardian",
+  "hp":12,
+  "atk":4,
+  "room":"Kitchen"
+},{
+  "name":"Crocked Pot",
+  "hp":12,
+  "atk":2,
+  "room":"Kitchen"
+},{
+  "name":"Creme Brulee",
+  "hp":11,
+  "atk":2,
+  "room":"Kitchen"
+},{
+  "name":"Pigammon",
+  "hp":18,
+  "atk":5,
+  "room":"Kitchen"
+},{
+  "name":"Hamnibal",
+  "hp":40,
+  "atk":6,
+  "room":"Kitchen"
+},{
+  "name":"Beater Bot",
+  "hp":40,
+  "atk":6,
+  "room":"Kitchen"
+},{
+  "name":"Protein Chef",
+  "hp":30,
+  "atk":13,
+  "room":"Kitchen"
+},{
+  "name":"Bacon Progenitor",
+  "hp":75,
+  "atk":16,
+  "room":"Kitchen"
+},{
+  "name":"Cadet",
+  "hp":10,
+  "atk":2,
+  "room":"Armory"
+},{
+  "name":"Solider",
+  "hp":10,
+  "atk":2,
+  "room":"Armory"
+},{
+  "name":"Captain",
+  "hp":12,
+  "atk":3,
+  "room":"Armory"
+},{
+  "name":"Pike Knight",
+  "hp":12,
+  "atk":3,
+  "room":"Armory"
+},{
+  "name":"Deathbringer",
+  "hp":13,
+  "atk":2,
+  "room":"Armory"
+},{
+  "name":"Pit Champion",
+  "hp":12,
+  "atk":4,
+  "room":"Armory"
+},{
+  "name":"Bladed Lizard",
+  "hp":13,
+  "atk":3,
+  "room":"Armory"
+},{
+  "name":"Darklo",
+  "hp":12,
+  "atk":2,
+  "room":"Armory"
+},{
+  "name":"Razorback",
+  "hp":11,
+  "atk":2,
+  "room":"Armory"
+},{
+  "name":"Lancer",
+  "hp":18,
+  "atk":5,
+  "room":"Armory"
+},{
+  "name":"Dragoon",
+  "hp":40,
+  "atk":6,
+  "room":"Armory"
+},{
+  "name":"Skull Commander",
+  "hp":40,
+  "atk":6,
+  "room":"Armory"
+},{
+  "name":"Uberjailer",
+  "hp":30,
+  "atk":13,
+  "room":"Armory"
+},{
+  "name":"Spectral King",
+  "hp":75,
+  "atk":16,
+  "room":"Armory"
+},{
+  "name":"Royal Guard",
+  "hp":10,
+  "atk":2,
+  "room":"Throne Room"
+},{
+  "name":"Assassin",
+  "hp":10,
+  "atk":2,
+  "room":"Throne Room"
+},{
+  "name":"Duke Of Slime",
+  "hp":12,
+  "atk":3,
+  "room":"Throne Room"
+},{
+  "name":"Blade Geist",
+  "hp":12,
+  "atk":3,
+  "room":"Throne Room"
+},{
+  "name":"Cupid Warrior",
+  "hp":13,
+  "atk":2,
+  "room":"Throne Room"
+},{
+  "name":"Prince Oink",
+  "hp":12,
+  "atk":4,
+  "room":"Throne Room"
+},{
+  "name":"Sir Turts",
+  "hp":13,
+  "atk":3,
+  "room":"Throne Room"
+},{
+  "name":"Corrupt Hero",
+  "hp":12,
+  "atk":2,
+  "room":"Throne Room"
+},{
+  "name":"Cauldron",
+  "hp":11,
+  "atk":2,
+  "room":"Throne Room"
+},{
+  "name":"Twilight Priestess",
+  "hp":18,
+  "atk":5,
+  "room":"Throne Room"
+},{
+  "name":"Vampire Aristocrat",
+  "hp":40,
+  "atk":6,
+  "room":"Throne Room"
+},{
+  "name":"Royal Commander",
+  "hp":40,
+  "atk":6,
+  "room":"Throne Room"
+},{
+  "name":"Demona",
+  "hp":125,
+  "atk":13,
+  "room":"Throne Room"
+}]
