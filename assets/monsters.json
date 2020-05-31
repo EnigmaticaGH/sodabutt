@@ -2,335 +2,402 @@
   "name":"Rat",
   "hp":2,
   "atk":1,
-  "room":"Caverns"
+  "room":"Caverns",
+  "type":"Normal"
 },{
   "name":"Mushroom",
   "hp":2,
   "atk":1,
-  "room":"Caverns"
+  "room":"Caverns",
+  "type":"Normal"
 },{
   "name":"Skeleton",
   "hp":3,
   "atk":1,
-  "room":"Caverns"
+  "room":"Caverns",
+  "type":"Normal"
 },{
   "name":"Squib",
   "hp":2,
   "atk":1,
-  "room":"Caverns"
+  "room":"Caverns",
+  "type":"Normal"
 },{
   "name":"Snatcher",
   "hp":2,
   "atk":2,
-  "room":"Caverns"
+  "room":"Caverns",
+  "type":"Normal"
 },{
   "name":"Spider",
   "hp":2,
   "atk":2,
-  "room":"Caverns"
+  "room":"Caverns",
+  "type":"Normal"
 },{
   "name":"Mole Rat",
   "hp":5,
   "atk":2,
-  "room":"Caverns"
+  "room":"Caverns",
+  "type":"Normal"
 },{
   "name":"Toad",
   "hp":10,
   "atk":2,
-  "room":"Caverns"
+  "room":"Caverns",
+  "type":"Normal"
 },{
   "name":"Slug",
   "hp":10,
   "atk":3,
-  "room":"Caverns"
+  "room":"Caverns",
+  "type":"Normal"
 },{
   "name":"Cave Troll",
   "hp":15,
   "atk":4,
-  "room":"Caverns"
+  "room":"Caverns",
+  "type":"Normal"
 },{
   "name":"Tunneler",
   "hp":8,
   "atk":2,
-  "room":"Caverns"
+  "room":"Caverns",
+  "type":"Miniboss"
 },{
   "name":"Granite Growler",
   "hp":30,
   "atk":4,
-  "room":"Caverns"
+  "room":"Caverns",
+  "type":"Miniboss"
 },{
   "name":"Dragon",
   "hp":28,
   "atk":3,
-  "room":"Caverns"
+  "room":"Caverns",
+  "type":"Boss"
 },{
   "name":"Gorgon",
   "hp":50,
   "atk":6,
-  "room":"Caverns"
+  "room":"Caverns",
+  "type":"Boss"
 },{
   "name":"Rat",
   "hp":2,
   "atk":1,
-  "room":"Jail"
+  "room":"Jail",
+  "type":"Normal"
 },{
   "name":"Fly",
   "hp":3,
   "atk":2,
-  "room":"Jail"
+  "room":"Jail",
+  "type":"Normal"
 },{
   "name":"Mr. Skeltal",
   "hp":10,
   "atk":2,
-  "room":"Jail"
+  "room":"Jail",
+  "type":"Normal"
 },{
   "name":"Stichy",
   "hp":12,
   "atk":3,
-  "room":"Jail"
+  "room":"Jail",
+  "type":"Normal"
 },{
   "name":"Lantern Geist",
   "hp":12,
   "atk":3,
-  "room":"Jail"
+  "room":"Jail",
+  "type":"Normal"
 },{
   "name":"Guard",
   "hp":13,
   "atk":2,
-  "room":"Jail"
+  "room":"Jail",
+  "type":"Normal"
 },{
   "name":"Friendly Ghost",
   "hp":12,
   "atk":4,
-  "room":"Jail"
+  "room":"Jail",
+  "type":"Normal"
 },{
   "name":"Burlapy",
   "hp":13,
   "atk":3,
-  "room":"Jail"
+  "room":"Jail",
+  "type":"Normal"
 },{
   "name":"Skeleton Warrior",
   "hp":11,
   "atk":2,
-  "room":"Jail"
+  "room":"Jail",
+  "type":"Normal"
 },{
   "name":"Jailer",
   "hp":18,
   "atk":5,
-  "room":"Jail"
+  "room":"Jail",
+  "type":"Miniboss"
 },{
   "name":"Brute",
   "hp":40,
   "atk":6,
-  "room":"Jail"
+  "room":"Jail",
+  "type":"Miniboss"
 },{
   "name":"Ghost Dragon",
   "hp":50,
   "atk":13,
-  "room":"Jail"
+  "room":"Jail",
+  "type":"Boss"
 },{
   "name":"Abomination",
   "hp":70,
   "atk":15,
-  "room":"Jail"
+  "room":"Jail",
+  "type":"Boss"
 },{
   "name":"Radish",
   "hp":10,
   "atk":2,
-  "room":"Kitchen"
+  "room":"Kitchen",
+  "type":"Normal"
 },{
   "name":"Eggplant",
   "hp":10,
   "atk":2,
-  "room":"Kitchen"
+  "room":"Kitchen",
+  "type":"Normal"
 },{
   "name":"Carrot",
   "hp":12,
   "atk":3,
-  "room":"Kitchen"
+  "room":"Kitchen",
+  "type":"Normal"
 },{
   "name":"Blue Barry",
   "hp":12,
   "atk":3,
-  "room":"Kitchen"
+  "room":"Kitchen",
+  "type":"Normal"
 },{
   "name":"Vegone",
   "hp":13,
   "atk":2,
-  "room":"Kitchen"
+  "room":"Kitchen",
+  "type":"Normal"
 },{
   "name":"Glazed Guardian",
   "hp":12,
   "atk":4,
-  "room":"Kitchen"
+  "room":"Kitchen",
+  "type":"Normal"
 },{
   "name":"Crocked Pot",
   "hp":12,
   "atk":2,
-  "room":"Kitchen"
+  "room":"Kitchen",
+  "type":"Normal"
 },{
   "name":"Creme Brulee",
   "hp":11,
   "atk":2,
-  "room":"Kitchen"
+  "room":"Kitchen",
+  "type":"Normal"
 },{
   "name":"Pigammon",
   "hp":18,
   "atk":5,
-  "room":"Kitchen"
+  "room":"Kitchen",
+  "type":"Normal"
 },{
   "name":"Hamnibal",
   "hp":40,
   "atk":6,
-  "room":"Kitchen"
+  "room":"Kitchen",
+  "type":"Miniboss"
 },{
   "name":"Beater Bot",
   "hp":40,
   "atk":6,
-  "room":"Kitchen"
+  "room":"Kitchen",
+  "type":"Miniboss"
 },{
   "name":"Protein Chef",
   "hp":30,
   "atk":13,
-  "room":"Kitchen"
+  "room":"Kitchen",
+  "type":"Boss"
 },{
   "name":"Bacon Progenitor",
   "hp":75,
   "atk":16,
-  "room":"Kitchen"
+  "room":"Kitchen",
+  "type":"Boss"
 },{
   "name":"Cadet",
   "hp":10,
   "atk":2,
-  "room":"Armory"
+  "room":"Armory",
+  "type":"Normal"
 },{
   "name":"Solider",
   "hp":10,
   "atk":2,
-  "room":"Armory"
+  "room":"Armory",
+  "type":"Normal"
 },{
   "name":"Captain",
   "hp":12,
   "atk":3,
-  "room":"Armory"
+  "room":"Armory",
+  "type":"Normal"
 },{
   "name":"Pike Knight",
   "hp":12,
   "atk":3,
-  "room":"Armory"
+  "room":"Armory",
+  "type":"Normal"
 },{
   "name":"Deathbringer",
   "hp":13,
   "atk":2,
-  "room":"Armory"
+  "room":"Armory",
+  "type":"Normal"
 },{
   "name":"Pit Champion",
   "hp":12,
   "atk":4,
-  "room":"Armory"
+  "room":"Armory",
+  "type":"Normal"
 },{
   "name":"Bladed Lizard",
   "hp":13,
   "atk":3,
-  "room":"Armory"
+  "room":"Armory",
+  "type":"Normal"
 },{
   "name":"Darklo",
   "hp":12,
   "atk":2,
-  "room":"Armory"
+  "room":"Armory",
+  "type":"Normal"
 },{
   "name":"Razorback",
   "hp":11,
   "atk":2,
-  "room":"Armory"
+  "room":"Armory",
+  "type":"Normal"
 },{
   "name":"Lancer",
   "hp":18,
   "atk":5,
-  "room":"Armory"
+  "room":"Armory",
+  "type":"Normal"
 },{
   "name":"Dragoon",
   "hp":40,
   "atk":6,
-  "room":"Armory"
+  "room":"Armory",
+  "type":"Miniboss"
 },{
   "name":"Skull Commander",
   "hp":40,
   "atk":6,
-  "room":"Armory"
+  "room":"Armory",
+  "type":"Miniboss"
 },{
   "name":"Uberjailer",
   "hp":30,
   "atk":13,
-  "room":"Armory"
+  "room":"Armory",
+  "type":"Boss"
 },{
   "name":"Spectral King",
   "hp":75,
   "atk":16,
-  "room":"Armory"
+  "room":"Armory",
+  "type":"Boss"
 },{
   "name":"Royal Guard",
   "hp":10,
   "atk":2,
-  "room":"Throne Room"
+  "room":"Throne Room",
+  "type":"Normal"
 },{
   "name":"Assassin",
   "hp":10,
   "atk":2,
-  "room":"Throne Room"
+  "room":"Throne Room",
+  "type":"Normal"
 },{
   "name":"Duke Of Slime",
   "hp":12,
   "atk":3,
-  "room":"Throne Room"
+  "room":"Throne Room",
+  "type":"Normal"
 },{
   "name":"Blade Geist",
   "hp":12,
   "atk":3,
-  "room":"Throne Room"
+  "room":"Throne Room",
+  "type":"Normal"
 },{
   "name":"Cupid Warrior",
   "hp":13,
   "atk":2,
-  "room":"Throne Room"
+  "room":"Throne Room",
+  "type":"Normal"
 },{
   "name":"Prince Oink",
   "hp":12,
   "atk":4,
-  "room":"Throne Room"
+  "room":"Throne Room",
+  "type":"Normal"
 },{
   "name":"Sir Turts",
   "hp":13,
   "atk":3,
-  "room":"Throne Room"
+  "room":"Throne Room",
+  "type":"Normal"
 },{
   "name":"Corrupt Hero",
   "hp":12,
   "atk":2,
-  "room":"Throne Room"
+  "room":"Throne Room",
+  "type":"Normal"
 },{
   "name":"Cauldron",
   "hp":11,
   "atk":2,
-  "room":"Throne Room"
+  "room":"Throne Room",
+  "type":"Normal"
 },{
   "name":"Twilight Priestess",
   "hp":18,
   "atk":5,
-  "room":"Throne Room"
+  "room":"Throne Room",
+  "type":"Normal"
 },{
   "name":"Vampire Aristocrat",
   "hp":40,
   "atk":6,
-  "room":"Throne Room"
+  "room":"Throne Room",
+  "type":"Miniboss"
 },{
   "name":"Royal Commander",
   "hp":40,
   "atk":6,
-  "room":"Throne Room"
+  "room":"Throne Room",
+  "type":"Miniboss"
 },{
   "name":"Demona",
   "hp":125,
   "atk":13,
-  "room":"Throne Room"
+  "room":"Throne Room",
+  "type":"Boss"
 }]
