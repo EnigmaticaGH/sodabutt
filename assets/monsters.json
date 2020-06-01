@@ -213,7 +213,7 @@
   "hp":18,
   "atk":5,
   "room":"Kitchen",
-  "type":"Normal"
+  "type":"Miniboss"
 },{
   "name":"Hamnibal",
   "hp":40,
